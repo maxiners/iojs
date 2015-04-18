@@ -1,0 +1,25 @@
+{
+  "name": "iojs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Maximiliano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "socket.io": "^1.3.5"
+  },
+  "devDependencies": {},
+  "description": "programa hecho el 17 de abril",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxiners/iojs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxiners/iojs/issues"
+  },
+  "homepage": "https://github.com/maxiners/iojs"
+}
